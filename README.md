@@ -1,4 +1,5 @@
 # Getting Started
+hello there ! 
 Install the dependencies and run the project
 ```
 npm install
